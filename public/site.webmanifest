@@ -1,0 +1,14 @@
+{
+  "name": "First Biotech Company",
+  "short_name": "First Biotech",
+  "icons": [
+    {
+      "src": "/images/logo_small.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#1E648A",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 
